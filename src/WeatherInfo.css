@@ -1,0 +1,16 @@
+.WeatherInfo h1 {
+  font-size: 46px;
+  font-weight: 500;
+  padding-top: 5px;
+}
+
+.WeatherInfo .weatherDescription {
+  color: rgb(106, 103, 103);
+  text-transform: capitalize;
+}
+
+.WeatherInfo img {
+  width: 112px;
+  position: relative;
+  top: 9px;
+}
